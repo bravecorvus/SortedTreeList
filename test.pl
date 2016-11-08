@@ -4,12 +4,12 @@ winnings(jingling_silver, 300).
 winnings(maloja, 356).
 
 w(massinga, 858,
-	w(braemar, 385,
-		w(adela, 588, _, _),
+	a(braemar, 385,
+		z(adela, 588, _, _),
 
 
 	_),
-	w(panorama, 158,
+	d(panorama, 158,
 		w(nettleweed, 579, _, _),
 	_)
 ).
